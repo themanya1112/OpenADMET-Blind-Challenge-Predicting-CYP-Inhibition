@@ -103,21 +103,13 @@ CYP3A4's curve peaks well above its own training prevalence (21.3%), at a 42.5% 
 
 ### 3.4 Final result
 
-Blind MA-MCC (submitted)
+Blind MA-MCC: 0.3146
 
-0.3146
+Blind MA-Precision: 0.390
 
-Blind MA-Precision
+Blind MA-Recall: 0.519
 
-0.390
-
-Blind MA-Recall
-
-0.519
-
-Blind MA-F1
-
-0.433
+Blind MA-F1: 0.433
 
 Table 3. Out-of-fold cross-validated performance by isoform, bootstrapped (1,000 resamples).
 
