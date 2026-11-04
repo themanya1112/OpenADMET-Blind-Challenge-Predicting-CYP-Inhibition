@@ -200,5 +200,3 @@ A complete, reproducible pipeline was built and executed against the OpenADMET C
 
 1. OpenADMET. *CYP Inhibition Blind Challenge*. https://huggingface.co/spaces/openadmet/cyp-challenge, 2026.
 2. OpenADMET. *cyp-challenge-train-test* dataset. https://huggingface.co/datasets/openadmet/cyp-challenge-train-test, 2026.
-3. Reference implementation consulted for the bioactivation alert block's SMARTS patterns and per-isoform feature-block selection, an unpublished community entry to this challenge, shared for reference.
-4. Reference implementation consulted for the two-potency (direct/shift) formulation of the TDI label and the leaderboard-based prevalence inversion, an unpublished community entry to this challenge, shared for reference.
